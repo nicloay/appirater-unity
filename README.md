@@ -13,7 +13,10 @@ Starting from 10.3 version this plugin will show native dialogue, prior that ver
 |:----:|:----:|
 |![9 3_popup](https://user-images.githubusercontent.com/1671030/33431973-9b12e428-d5d6-11e7-8f53-b4adc395666e.png)|![10 3_popup](https://user-images.githubusercontent.com/1671030/33430710-c9c114a2-d5d1-11e7-84b3-666b905ed19c.png)|
 
-# How to use it
+How to use it
+=============
+
+Download and import [latest release](https://github.com/nicloay/appirater-unity/releases/tag/1.0) in to your project
 
 On application start you must call following method
 ```
@@ -28,7 +31,8 @@ Appirater.DidSignificantEvent
 
 for more details please read origina [appirater documentation](https://github.com/arashpayan/appirater)
 
-# Move plugin to another location
+Move plugin to another location
+===========
 
 If you move plugin to another location like
 
